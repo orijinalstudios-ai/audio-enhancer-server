@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "GLC AI Audio Enhancer",
+    "slug": "glc-ai-audio-enhancer",
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "090ba794-bb5c-4c6a-81d0-c7233c951e9e"
+      }
+    }
+  }
+}
