@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "GLC AI Audio Enhancer",
-    "slug": "glc-ai-audio-enhancer",
+    "slug": "AudioEnhancerFinal",
     "version": "1.0.0",
     "extra": {
       "eas": {
